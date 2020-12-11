@@ -1,9 +1,11 @@
 ## 리눅스활용실습 프로젝트1 - File Explorer
 
-**프로젝트 설명**
+
 
 ![1](https://user-images.githubusercontent.com/62434898/101886237-8c721f80-3bde-11eb-9afc-c21fae8470e6.jpg)
 
+
+**프로젝트 설명**
 
 
 ■ 현재 경로 출력
